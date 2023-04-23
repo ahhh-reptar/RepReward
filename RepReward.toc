@@ -1,0 +1,7 @@
+﻿## Interface: 30300
+## Title: RepReward
+## Notes: Shows reputation rewards for each quest.
+## Author: jayd (jaydcurse) [update by AHHH REPTAR]
+## Version: v2.06
+
+RepReward.lua
