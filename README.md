@@ -9,7 +9,7 @@ The addon has a very small footprint. It does not use any local data repository.
 
 The addon calculates reputation bonus based on race (humans have a racial reputation bonus), reputation buffs (i.e. Darkmoon Top Hat, etc.), and MoP Grand Commendations.
 
-Example of addon use:
+## Example of addon use:
 
 The addon helps players identify quests they want to save until they have reached a certain reputation level with a faction. For example, the Sporeggar faction has a few turn ins that give reputation only until Friendly. However completing quests for them will give reputation all the way to Exalted. An effective way to reach exalted with them is to do the turn ins first and save the quests until the player has reached Friendly with them.
 
